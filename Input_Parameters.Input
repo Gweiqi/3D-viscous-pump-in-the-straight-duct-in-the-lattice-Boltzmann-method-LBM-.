@@ -1,0 +1,10 @@
+! nx
+41
+! ny
+31
+! nz
+21                   
+! Distribution Concept
+Fluid flow                   
+! Tau	
+0.8
